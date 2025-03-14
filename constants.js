@@ -1,0 +1,6 @@
+export const INPUT_TASK_HIGH = document.querySelector('.input-form-high')
+export const INPUT_TASK_LOW = document.querySelector('.input-form-low')
+export const TASK_INPUT_HIGH = document.querySelector('.task-input-high')
+export const TASK_INPUT_LOW = document.querySelector('.task-input-low')
+export const TASKS_HIGH_LIST = document.querySelector('.tasks-high-list')
+export const TASKS_LOW_LIST = document.querySelector(`.tasks-low-list`)
